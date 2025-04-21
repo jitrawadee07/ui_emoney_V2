@@ -1,0 +1,27 @@
+
+  name: e_money
+  description: A new Flutter project.
+  publish_to: 'none'
+  version: 1.0.0+1
+
+  environment:
+    sdk: '>=3.0.0 <4.0.0'
+
+  dependencies:
+    flutter:
+      sdk: flutter
+    get: ^4.6.6
+    cupertino_icons: ^1.0.8
+
+  dev_dependencies:
+    flutter_test:
+      sdk: flutter
+    flutter_lints: ^4.0.0
+
+  flutter:
+    uses-material-design: true
+    assets:
+#      - assets/images/emoney_character.png
+#      - assets/images/coin_hand.png
+#      - assets/images/google_logo.png
+#      - assets/images/phone_icon.png
